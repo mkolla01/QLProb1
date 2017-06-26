@@ -1,0 +1,4 @@
+com/common/friends/driver/CommonFriendsDriver.class
+com/common/friends/commonfriends/App.class
+com/common/friends/mr/commonFriendsMapper.class
+com/common/friends/mr/commonFriendsReducer.class
